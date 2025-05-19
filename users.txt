@@ -1,0 +1,4 @@
+username:aspc2025 password:edu.aspc.kz
+username:Shelo4 password:Hapeer123
+username:Egor_Hvec password:test
+>>> username: Egor_Hvec111 >>> password: 123123123
