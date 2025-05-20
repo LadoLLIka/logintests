@@ -20,6 +20,7 @@ func main() {
 
 func homeHandler(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintln(w, "<h1>TEST Shel website</h1><a href='/register'>Регистрация</a> | <a href='/login'>Вход</a>")
+	fmt.Fprintln(w, "<h1>TEST lox website</h1><a href='/register'>Регистрация</a> | <a href='/login'>Вход</a>")
 }
 
 func registerHandler(w http.ResponseWriter, r *http.Request) {
